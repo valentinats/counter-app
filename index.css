@@ -1,0 +1,52 @@
+body {
+  width: 100%;
+  font-family: "Comfortaa", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  margin: 0 auto;
+}
+
+.box {
+  max-width: 400px;
+  margin: 126px auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 36px;
+}
+
+p {
+  font-size: 32px;
+  margin-bottom: 36px;
+}
+
+.plus-btn {
+  width: 300px;
+  background: #8bc34a;
+  border-radius: 20px;
+  border: none;
+  padding: 28px 0px;
+  font-family: "Comfortaa";
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
+  color: black;
+  cursor: pointer;
+  margin-bottom: 36px;
+}
+
+.reset-btn {
+  width: 300px;
+  background: #d45366;
+  border-radius: 20px;
+  border: none;
+  padding: 28px 0px;
+  font-family: "Comfortaa";
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
+  color: black;
+  cursor: pointer;
+}
