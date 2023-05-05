@@ -53,3 +53,8 @@ p {
   color: black;
   cursor: pointer;
 }
+
+@media (max-width: 500px) {
+  .box {
+  margin: 90px auto;
+}
