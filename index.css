@@ -10,6 +10,7 @@ body {
   max-width: 400px;
   margin: 126px auto;
   text-align: center;
+  padding: 0 10px;
 }
 
 h1 {
@@ -23,7 +24,8 @@ p {
 }
 
 .plus-btn {
-  width: 300px;
+  max-width: 300px;
+  width: 100%;
   background: #8bc34a;
   border-radius: 20px;
   border: none;
@@ -38,7 +40,8 @@ p {
 }
 
 .reset-btn {
-  width: 300px;
+  max-width: 300px;
+  width: 100%;
   background: #d45366;
   border-radius: 20px;
   border: none;
